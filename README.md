@@ -3,18 +3,19 @@
   <div>
        <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">  
   </div>
-
+  <br>
+  
 ##
 
 - 🌱 Estudando HTML e CSS.
 - ⚡ Um mero estudante no inicio de sua jornada 
 
-##
-
+  <br>
  <div style="display: inline_block">
-      <img align="center" alt="ddz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="ddz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="ddz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+      <img align="right" alt="ddz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="right" alt="ddz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="right" alt="ddz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+      <br>
   </div>
   
  ##
