@@ -27,5 +27,5 @@
        <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">  
   </div>
   
-
+ ![Snake animation](https://github.com/Du-dz/Du-dz/blob/output/github-contribution-grid-snake.svg)
   
