@@ -23,8 +23,6 @@
       <img align="center" alt="ddz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   </div>
   
-  ##
-  
    <div>
        <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">  
   </div>
