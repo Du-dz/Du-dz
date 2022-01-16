@@ -5,6 +5,10 @@
 - 🌱 Estudando HTML e CSS.
 - ⚡ Um mero estudante no inicio de sua jornada 
 
+  <div>
+       <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">  
+  </div>
+
 
 ##
 
@@ -23,9 +27,9 @@
       <img align="center" alt="ddz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   </div>
   
-   <div>
-       <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">  
-  </div>
+ 
+  
+  ##
   
  ![Snake animation](https://github.com/Du-dz/Du-dz/blob/output/github-contribution-grid-snake.svg)
   
