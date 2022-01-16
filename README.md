@@ -1,13 +1,9 @@
 ### Olá, seja muito bem-vindo(a)! Me chamo Eduardo de Oliveira 😊
-  <div>
-       <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">  
-  </div>
 
-
+##
 
 - 🌱 Estudando HTML e CSS.
 - ⚡ Um mero estudante no inicio de sua jornada 
-
 
 
 ##
@@ -28,6 +24,10 @@
   </div>
   
   ##
+  
+   <div>
+       <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">  
+  </div>
   
 
   
